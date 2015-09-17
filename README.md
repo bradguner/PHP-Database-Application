@@ -1,2 +1,2 @@
 # PHP-Database-Application
-A simple car sharing service web app
+A simple PHP application for a (fake) car sharing service!
